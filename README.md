@@ -52,3 +52,20 @@ plt.show()
 ```
 
 ## Output Waveform:
+![image](https://github.com/user-attachments/assets/82267b93-0a9c-43ea-bbf0-11c81dbd9b03)
+
+![image](https://github.com/user-attachments/assets/23e0f832-8777-4b9f-8b7d-31d0be8bf1d7)
+
+![image](https://github.com/user-attachments/assets/90391d63-df28-4dea-a77a-9c9fa7dc11c7)
+
+
+
+
+## Result:
+
+The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified.
+
+
+
+
+
